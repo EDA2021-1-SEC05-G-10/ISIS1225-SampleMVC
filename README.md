@@ -1,6 +1,6 @@
 # Integrantes
-* David Rincón
-* Nicolas Maldonado
+* David Rincón -> d.rinconc@uniandes.edu.co -> Código: (201921719)
+* Nicolas Maldonado -> n.maldonado2@uniandes.edu.co -> Código: (201921739)
 ------------------------------------
 
 #ISIS1225 - Estructura de un proyecto
